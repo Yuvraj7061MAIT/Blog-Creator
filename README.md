@@ -33,8 +33,7 @@ To set up and run the Blog Generator on your local machine, follow these steps:
 4. **Open your browser**: Go to `http://localhost:8501` to access the application. 🌍
 
 ## 🖼️ Demonstration
-
-![Blog Generator](https://www.linkedin.com/posts/yuvraj-singh-ml_innovation-contentcreation-streamlit-activity-7149448193670283264-_m_r?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/yuvraj-singh-ml_innovation-contentcreation-streamlit-activity-7149448193670283264-_m_r?utm_source=share&utm_medium=member_desktop
 
 ## 📄 How to Use
 
